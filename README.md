@@ -59,9 +59,9 @@
 
 ## Desenvolvedores
 
-<div style="display: flex; gap: 16px;">
+<div style="text-align: center;">
 
-<div style="width: 200px; background-color: snow; padding: 16px; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; border-radius: 16px; box-shadow: 0px 2px 4px rgba(0,0,0,0.2);">
+<div style="width: 200px; background-color: snow; padding: 16px; text-align: center; border-radius: 16px; box-shadow: 0px 2px 4px rgba(0,0,0,0.2); display: inline-block; margin: 8px;">
     <img src="./img/bianca.png" alt="Imagem" style="max-width: 100px; height: 100px; border-radius: 50%;">
     <h3>Dev Mobile</h3>
     <p>Bianca Maria Soares</p>
@@ -70,7 +70,7 @@
     </a>
 </div>
 
-<div style="width: 200px; background-color: snow; padding: 16px; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; border-radius: 16px; box-shadow: 0px 2px 4px rgba(0,0,0,0.2);">
+<div style="width: 200px; background-color: snow; padding: 16px; text-align: center; border-radius: 16px; box-shadow: 0px 2px 4px rgba(0,0,0,0.2); display: inline-block; margin: 8px;">
     <img src="./img/carol.png" alt="Imagem" style="max-width: 100px; height: 100px; border-radius: 50%;">
     <h3>Dev Front-END</h3>
     <p>Carolina Neponucena</p>
@@ -79,7 +79,7 @@
     </a>
 </div>
 
-<div style="width: 200px; background-color: snow; padding: 16px; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; border-radius: 16px; box-shadow: 0px 2px 4px rgba(0,0,0,0.2);">
+<div style="width: 200px; background-color: snow; padding: 16px; text-align: center; border-radius: 16px; box-shadow: 0px 2px 4px rgba(0,0,0,0.2); display: inline-block; margin: 8px;">
     <img src="./img/igor.png" alt="Imagem" style="max-width: 100px; height: 100px; border-radius: 50%;">
     <h3>Dev Back-END</h3>
     <p>Igor Araujo</p>
@@ -88,7 +88,7 @@
     </a>
 </div>
 
-<div style="width: 200px; background-color: snow; padding: 16px; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; border-radius: 16px; box-shadow: 0px 2px 4px rgba(0,0,0,0.2);">
+<div style="width: 200px; background-color: snow; padding: 16px; text-align: center; border-radius: 16px; box-shadow: 0px 2px 4px rgba(0,0,0,0.2); display: inline-block; margin: 8px;">
     <img src="./img/nicolas.png" alt="Imagem" style="max-width: 100px; height: 100px; border-radius: 50%;">
     <h3>Dev Full-Stack (SCRUM Master)</h3>
     <p>Nicolas Vasconcelos Petri</p>
@@ -97,7 +97,7 @@
     </a>
 </div>
 
-<div style="width: 200px; background-color: snow; padding: 16px; display: flex; flex-direction: column; justify-content: center; align-items: center; text-align: center; border-radius: 16px; box-shadow: 0px 2px 4px rgba(0,0,0,0.2);">
+<div style="width: 200px; background-color: snow; padding: 16px; text-align: center; border-radius: 16px; box-shadow: 0px 2px 4px rgba(0,0,0,0.2); display: inline-block; margin: 8px;">
     <img src="./img/raica.png" alt="Imagem" style="max-width: 100px; height: 100px; border-radius: 50%;">
     <h3>Dev Front-END</h3>
     <p>Raica Martinez</p>
@@ -107,4 +107,5 @@
 </div>
 
 </div>
+
 
